@@ -1,0 +1,4 @@
+Cannot add user! Password too short!
+User with email: ana@gmail.com was successfully added!
+User with email: ana@gmail.com is the current user started from 2022-07-16T15:46:08.037413
+User with email ana@gmail.comsuccessfully disconnected at 2022-07-16T15:46:08.045414300
