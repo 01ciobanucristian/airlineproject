@@ -94,7 +94,7 @@ public class AirLineManager {
         if(currentUser == null) {
             writerService.write(Messages.getNoConnectedUser());
         }else{
-           // for()TODO
+           // for()
         }
 
     }
